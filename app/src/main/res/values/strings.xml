@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CaptchaKing</string>
+    <string name="new_game">New Game</string>
+    <string name="captcha_king">CAPTCHA KING</string>
+    <string name="answer">Answer</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result</string>
+    <string name="home">HOME</string>
+    <string name="score">Score</string>
+    <string name="answer_rate">Answer Rate</string>
+</resources>
